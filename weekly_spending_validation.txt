@@ -1,0 +1,17 @@
+How much did you spend on each day this week?
+Mon: $Please enter a valid number.
+Mon: $Amount must be zero or greater.
+Mon: $Tue: $Wed: $Thu: $Fri: $Sat: $Sun: $
+Day   Amount
+------------
+Mon  $19.00
+Tue  $11.00
+Wed  $26.00
+Thu  $22.00
+Fri  $32.00
+Sat  $139.99
+Sun  $80.65
+
+Total spent:   $330.64
+Daily average: $47.23
+Highest day:   Sat ($139.99)

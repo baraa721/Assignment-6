@@ -1,0 +1,37 @@
+Reserve seats in a theater with 4 rows of 6 seats.
+Row 1: O O O O O O 
+Row 2: O O O O O O 
+Row 3: O O O O O O 
+Row 4: O O O O O O 
+
+Row to reserve (0 to finish): Seat number: Reserved!
+Row 1: O O O O O O 
+Row 2: O O O O O O 
+Row 3: O O O O O O 
+Row 4: O O X O O O 
+
+Row to reserve (0 to finish): Seat number: That seat is already taken.
+Row 1: O O O O O O 
+Row 2: O O O O O O 
+Row 3: O O O O O O 
+Row 4: O O X O O O 
+
+Row to reserve (0 to finish): Seat number: There is no such seat.
+Row 1: O O O O O O 
+Row 2: O O O O O O 
+Row 3: O O O O O O 
+Row 4: O O X O O O 
+
+Row to reserve (0 to finish): Seat number: There is no such seat.
+Row 1: O O O O O O 
+Row 2: O O O O O O 
+Row 3: O O O O O O 
+Row 4: O O X O O O 
+
+Row to reserve (0 to finish): Seat number: Reserved!
+Row 1: X O O O O O 
+Row 2: O O O O O O 
+Row 3: O O O O O O 
+Row 4: O O X O O O 
+
+Row to reserve (0 to finish): Seats taken: 2 of 24
